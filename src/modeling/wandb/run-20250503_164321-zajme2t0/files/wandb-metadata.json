@@ -1,0 +1,38 @@
+{
+  "os": "Linux-6.8.0-49-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-05-03T16:43:21.668019Z",
+  "program": "/workspace/llm_project/src/modeling/train.py",
+  "codePath": "train.py",
+  "email": "hasansyed8505@gmail.com",
+  "root": "/workspace/llm_project/src/modeling",
+  "host": "4fd55f546328",
+  "executable": "/usr/bin/python",
+  "codePathLocal": "train.py",
+  "cpu_count": 48,
+  "cpu_count_logical": 96,
+  "gpu": "NVIDIA A40",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "107374182400",
+      "used": "8421892096"
+    }
+  },
+  "memory": {
+    "total": "540644257792"
+  },
+  "cpu": {
+    "count": 48,
+    "countLogical": 96
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A40",
+      "memoryTotal": "48305799168",
+      "cudaCores": 10752,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.8"
+}

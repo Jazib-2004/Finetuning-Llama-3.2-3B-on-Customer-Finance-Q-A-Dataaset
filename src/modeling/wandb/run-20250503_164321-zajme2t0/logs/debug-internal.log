@@ -1,0 +1,15 @@
+{"time":"2025-05-03T16:43:21.673095948Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/workspace/llm_project/src/modeling/wandb/run-20250503_164321-zajme2t0/logs/debug-core.log"}
+{"time":"2025-05-03T16:43:21.887641427Z","level":"INFO","msg":"created new stream","id":"zajme2t0"}
+{"time":"2025-05-03T16:43:21.888092382Z","level":"INFO","msg":"stream: started","id":"zajme2t0"}
+{"time":"2025-05-03T16:43:21.88812603Z","level":"INFO","msg":"writer: Do: started","stream_id":"zajme2t0"}
+{"time":"2025-05-03T16:43:21.888166022Z","level":"INFO","msg":"sender: started","stream_id":"zajme2t0"}
+{"time":"2025-05-03T16:43:21.888248499Z","level":"INFO","msg":"handler: started","stream_id":"zajme2t0"}
+{"time":"2025-05-03T16:43:22.062175319Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-03T16:43:24.425410684Z","level":"INFO","msg":"stream: closing","id":"zajme2t0"}
+{"time":"2025-05-03T16:43:24.425516153Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-03T16:43:24.42615731Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-03T16:43:24.868776617Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-03T16:43:25.006287808Z","level":"INFO","msg":"handler: closed","stream_id":"zajme2t0"}
+{"time":"2025-05-03T16:43:25.006408718Z","level":"INFO","msg":"sender: closed","stream_id":"zajme2t0"}
+{"time":"2025-05-03T16:43:25.006404771Z","level":"INFO","msg":"writer: Close: closed","stream_id":"zajme2t0"}
+{"time":"2025-05-03T16:43:25.015998406Z","level":"INFO","msg":"stream: closed","id":"zajme2t0"}

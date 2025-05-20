@@ -1,0 +1,15 @@
+{"time":"2025-05-03T16:52:48.039496779Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/workspace/llm_project/src/modeling/wandb/run-20250503_165247-3ikat4ap/logs/debug-core.log"}
+{"time":"2025-05-03T16:52:48.28201232Z","level":"INFO","msg":"created new stream","id":"3ikat4ap"}
+{"time":"2025-05-03T16:52:48.282485577Z","level":"INFO","msg":"stream: started","id":"3ikat4ap"}
+{"time":"2025-05-03T16:52:48.282519107Z","level":"INFO","msg":"writer: Do: started","stream_id":"3ikat4ap"}
+{"time":"2025-05-03T16:52:48.28255685Z","level":"INFO","msg":"sender: started","stream_id":"3ikat4ap"}
+{"time":"2025-05-03T16:52:48.282569834Z","level":"INFO","msg":"handler: started","stream_id":"3ikat4ap"}
+{"time":"2025-05-03T16:52:48.470480179Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-03T16:56:05.892953421Z","level":"INFO","msg":"stream: closing","id":"3ikat4ap"}
+{"time":"2025-05-03T16:56:05.892990244Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-03T16:56:05.894007527Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-03T16:56:06.309466924Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-03T16:56:06.450650877Z","level":"INFO","msg":"handler: closed","stream_id":"3ikat4ap"}
+{"time":"2025-05-03T16:56:06.450736363Z","level":"INFO","msg":"writer: Close: closed","stream_id":"3ikat4ap"}
+{"time":"2025-05-03T16:56:06.450756113Z","level":"INFO","msg":"sender: closed","stream_id":"3ikat4ap"}
+{"time":"2025-05-03T16:56:06.456565662Z","level":"INFO","msg":"stream: closed","id":"3ikat4ap"}

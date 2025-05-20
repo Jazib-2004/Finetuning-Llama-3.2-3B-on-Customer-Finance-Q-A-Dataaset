@@ -1,0 +1,15 @@
+{"time":"2025-05-03T16:40:56.772185671Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/workspace/llm_project/src/modeling/wandb/run-20250503_164056-vkbi76iq/logs/debug-core.log"}
+{"time":"2025-05-03T16:40:57.012002994Z","level":"INFO","msg":"created new stream","id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:57.012721195Z","level":"INFO","msg":"stream: started","id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:57.012842553Z","level":"INFO","msg":"writer: Do: started","stream_id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:57.012914335Z","level":"INFO","msg":"handler: started","stream_id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:57.012954648Z","level":"INFO","msg":"sender: started","stream_id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:57.19548606Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-03T16:40:58.552673042Z","level":"INFO","msg":"stream: closing","id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:58.552750309Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-03T16:40:58.553939425Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-03T16:40:59.000652984Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-03T16:40:59.123970632Z","level":"INFO","msg":"handler: closed","stream_id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:59.124032316Z","level":"INFO","msg":"writer: Close: closed","stream_id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:59.124075483Z","level":"INFO","msg":"sender: closed","stream_id":"vkbi76iq"}
+{"time":"2025-05-03T16:40:59.127819679Z","level":"INFO","msg":"stream: closed","id":"vkbi76iq"}

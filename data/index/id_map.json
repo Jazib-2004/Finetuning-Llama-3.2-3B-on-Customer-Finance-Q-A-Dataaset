@@ -1,0 +1,1430 @@
+[
+  {
+    "id": 0,
+    "category": "Funds Transfer / RAAST",
+    "question": "is there a limit on the amount i can transfer through the mobile banking app?",
+    "answer": "yes, 1 million is the current daily limit. transfer limits vary based on your account type. check the “limits” section in the app for specifics on daily transfer limits."
+  },
+  {
+    "id": 1,
+    "category": "Funds Transfer / RAAST",
+    "question": "how can i change limit of funds transfer?",
+    "answer": "to change your funds, transfer limit, go to the “my profile” section and select “manage limit” in the app, then select “change ft/ibft” limits."
+  },
+  {
+    "id": 2,
+    "category": "Funds Transfer / RAAST",
+    "question": "how can i add or update beneficiaries/ recipients of mobile banking app for funds transfer?",
+    "answer": "in the app, navigate to the “transfer funds” section and select “new beneficiaries.” here, you can choose to add a new beneficiary by entering their details or update existing beneficiary information."
+  },
+  {
+    "id": 3,
+    "category": "Funds Transfer / RAAST",
+    "question": "how do i perform international transactions through mobile app?",
+    "answer": "one can enable international transactions by tapping on card management, select manage debit card and choose “international tranx activation” option."
+  },
+  {
+    "id": 4,
+    "category": "Funds Transfer / RAAST",
+    "question": "does the app support contactless payments or digital wallets?",
+    "answer": "for contactless payments nust bank has a separate mobile app named as nust digital wallets. customers can download and perform payments."
+  },
+  {
+    "id": 5,
+    "category": "App Features / Functionalities",
+    "question": "can i use the mobile app while i am overseas?",
+    "answer": "yes, the nust mobile app can be accessed globally. ensure you have internet connectivity and your registered mobile number is active for otps if required."
+  },
+  {
+    "id": 6,
+    "category": "App Features / Functionalities",
+    "question": "what should i do if i forget my login password?",
+    "answer": "tap on 'forgot password' on the login screen. follow the steps to reset your password using your registered mobile number and verification details."
+  },
+  {
+    "id": 7,
+    "category": "App Features / Functionalities",
+    "question": "can i reset my mpin through the app?",
+    "answer": "yes, after logging into the app, go to 'profile' → 'change mpin' and follow the prompts to reset your mpin securely."
+  },
+  {
+    "id": 8,
+    "category": "App Features / Functionalities",
+    "question": "what services are available under bill payment option?",
+    "answer": "you can pay utility bills, internet and mobile bills, and government fees using the 'bill payment' option in the app."
+  },
+  {
+    "id": 9,
+    "category": "App Features / Functionalities",
+    "question": "how can i recharge mobile balance or buy top-up?",
+    "answer": "use the 'mobile top-up' feature. select your network, enter the mobile number and amount, and confirm with your mpin."
+  },
+  {
+    "id": 10,
+    "category": "App Features / Functionalities",
+    "question": "is biometric login supported in the app?",
+    "answer": "yes, biometric login is supported. you can enable it under the 'profile' section by turning on 'fingerprint login' for faster and secure access."
+  },
+  {
+    "id": 11,
+    "category": "App Features / Functionalities",
+    "question": "can i view my debit card details using the mobile app?",
+    "answer": "you can view basic card details like the card status and activation options. for full card info, please contact the bank for security reasons."
+  },
+  {
+    "id": 12,
+    "category": "App Features / Functionalities",
+    "question": "how can i report an issue or give feedback within the app?",
+    "answer": "go to the 'contact us' or 'feedback' section in the app and submit your query or feedback. you can also email support@nustbank.com.pk."
+  },
+  {
+    "id": 13,
+    "category": "App Features / Functionalities",
+    "question": "how can i deactivate or delete my mobile banking account?",
+    "answer": "for security reasons, deactivation or deletion requests must be submitted by calling the helpline at +92 (51) 111 000 494."
+  },
+  {
+    "id": 14,
+    "category": "App Features / Functionalities",
+    "question": "is the mobile app available in multiple languages?",
+    "answer": "currently, the nust mobile app supports english only. multilingual support is being considered for future updates."
+  },
+  {
+    "id": 15,
+    "category": "LCA",
+    "question": "what are the main features of the little champs account.",
+    "answer": "minimum initial deposit of rs.100/-"
+  },
+  {
+    "id": 16,
+    "category": "LCA",
+    "question": "what other value added features does the little champs account have?",
+    "answer": "attractive returns on savings account"
+  },
+  {
+    "id": 17,
+    "category": "LCA",
+    "question": "what is the account type of little champs account is it saving or current ?",
+    "answer": "this account is offered both in current and savings categories"
+  },
+  {
+    "id": 18,
+    "category": "LCA",
+    "question": "how can the minor operate this account?",
+    "answer": "this account is opened in the name of the minor. however, a minor needs a guardian’s help to avail the account’s facilities"
+  },
+  {
+    "id": 19,
+    "category": "LCA",
+    "question": "what documents are required to open a little champs account.",
+    "answer": "· a photocopy of form-b, birth certificate or student id card (as appropriate) of the minor"
+  },
+  {
+    "id": 20,
+    "category": "NAA",
+    "question": "what is the eligibility criteria for naa?",
+    "answer": "resident pakistani individuals who do not maintain/have any other account (single or joint) in nust bank limited are eligible to open the naa in pak rupees as a single/joint account."
+  },
+  {
+    "id": 21,
+    "category": "NAA",
+    "question": "what is the account type of naa?",
+    "answer": "naa can be opened both in current & savings"
+  },
+  {
+    "id": 22,
+    "category": "NAA",
+    "question": "what is the opening and minimum balance requirement in naa?",
+    "answer": "account can be opened with rs.100/ and there is no minimum balance requirement."
+  },
+  {
+    "id": 23,
+    "category": "NAA",
+    "question": "what are the basic features of nust asaan account?",
+    "answer": "nust asaan account"
+  },
+  {
+    "id": 24,
+    "category": "NAA",
+    "question": "what is the profit rate on naa savings account?",
+    "answer": "current profit rate is 20.50% which is paid semi annually."
+  },
+  {
+    "id": 25,
+    "category": "NWA",
+    "question": "does your bank offer any account for senior citizens?",
+    "answer": "nust waqaar account has been developed for senior citizens, enabling them to carry out their banking transactions and also to avail investment opportunities."
+  },
+  {
+    "id": 26,
+    "category": "NWA",
+    "question": "what are the salient features of nust waqaar account ?",
+    "answer": "savings"
+  },
+  {
+    "id": 27,
+    "category": "NWA",
+    "question": "what identity documents are required to open nust waqaar account?",
+    "answer": "a photocopy of any one of the following valid identity documents:"
+  },
+  {
+    "id": 28,
+    "category": "NWA",
+    "question": "what is the minimum age to qualify for opening of nust waqaar account & minimum deposit requirement ?",
+    "answer": "minimum age to qualify is 55 years"
+  },
+  {
+    "id": 29,
+    "category": "NWA",
+    "question": "what is the minimum deposit requirement to open nust waqaar savings account & nust waqaar term deposit?",
+    "answer": "- minimum deposit for opening of the nust waqaar – savings account is rs.1,000"
+  },
+  {
+    "id": 30,
+    "category": "PWRA",
+    "question": "is there any account nust bank is offering for remittance purposes ?",
+    "answer": "yes pakwatan remittance account. through the pakwatan remittance account, beneficiaries can quickly and securely receive remittances from their loved one living abroad directly into their bank account without visiting the branch."
+  },
+  {
+    "id": 31,
+    "category": "PWRA",
+    "question": "what are initial/minimum balance requirements for pakwatan remittance account?",
+    "answer": "no initial deposit requirement"
+  },
+  {
+    "id": 32,
+    "category": "PWRA",
+    "question": "are local credits allowed in pakwatan remittance account?",
+    "answer": "local credits are also allowed in pakwatan remittance account"
+  },
+  {
+    "id": 33,
+    "category": "PWRA",
+    "question": "what are the free services associated with pakwatan remittance account?",
+    "answer": "free services include:"
+  },
+  {
+    "id": 34,
+    "category": "PWRA",
+    "question": "are there any other benefits to opening a pakwatan remittance account?",
+    "answer": "o wht exemption on cash withdrawal on home remittances received from abroad"
+  },
+  {
+    "id": 35,
+    "category": "PWRA",
+    "question": "is there any insurance coverage for this account?",
+    "answer": "o atm cash withdrawal insurance coverage up to daily cash withdrawal limit of the debit card from nust bank atms"
+  },
+  {
+    "id": 36,
+    "category": "PWRA",
+    "question": "what is the profit rate offered on this account and when is credited?",
+    "answer": "profit rate"
+  },
+  {
+    "id": 37,
+    "category": "RDA",
+    "question": "does nust bank offer any account for non-resident pakistanis (nrps)?",
+    "answer": "yes roshan digital account. specially designed for individual non-resident pakistanis (nrps) seeking to undertake banking, payment and investment activities in pakistan."
+  },
+  {
+    "id": 38,
+    "category": "RDA",
+    "question": "is there any minimum balance requirement of roshan digital account?",
+    "answer": "no initial deposit requirement"
+  },
+  {
+    "id": 39,
+    "category": "RDA",
+    "question": "what are the main features of the roshan digital account?",
+    "answer": "offered in pkr and usd/gbp/eur"
+  },
+  {
+    "id": 40,
+    "category": "RDA",
+    "question": "what are the free facilities ?",
+    "answer": "free first issuance of debit card- annual charges as per prevailing soc"
+  },
+  {
+    "id": 41,
+    "category": "RDA",
+    "question": "how to apply for roshan digital account ?",
+    "answer": "customer can visit nust bank’s website and click on \"apply for roshan digital account\" to open nust roshan digital account. ◦"
+  },
+  {
+    "id": 42,
+    "category": "RDA",
+    "question": "what is the nust bank web portal link for rda?",
+    "answer": "https://secureportal.nustbank.com/rda/"
+  },
+  {
+    "id": 43,
+    "category": "RDA",
+    "question": "who can open a roshan digital account?",
+    "answer": "nrps"
+  },
+  {
+    "id": 44,
+    "category": "VPCA",
+    "question": "what are the free facilities being provided with nust value plus current account?",
+    "answer": "- cheque books (unlimited)"
+  },
+  {
+    "id": 45,
+    "category": "VPCA",
+    "question": "are there any insurance benefits associated with vpca'?",
+    "answer": "- atm cash withdrawal insurance coverage"
+  },
+  {
+    "id": 46,
+    "category": "VPCA",
+    "question": "what is the opening and minimum balance requirement for vpca?",
+    "answer": "- no opening balance requirements"
+  },
+  {
+    "id": 47,
+    "category": "VP-BA",
+    "question": "what is target market for value plus business account ?",
+    "answer": "sole proprietors general partnership small enterprises"
+  },
+  {
+    "id": 48,
+    "category": "VP-BA",
+    "question": "is there any insurance coverage available?",
+    "answer": "atm cash withdrawal insurance speedy processing of sbp kamyab jawan loans"
+  },
+  {
+    "id": 49,
+    "category": "VPBA",
+    "question": "what other benefits do i get from using a vpba?",
+    "answer": "speedy processing of financing"
+  },
+  {
+    "id": 50,
+    "category": "VPBA",
+    "question": "what is the target market for value plus premium business account ?",
+    "answer": "medium enterprises"
+  },
+  {
+    "id": 51,
+    "category": "NSDA",
+    "question": "is nust bank offering any account which provides lucrative profits on my savings?",
+    "answer": "nust special deposit account (asda) is specially designed for large ticket customers to meet their transactional and savings needs."
+  },
+  {
+    "id": 52,
+    "category": "NSDA",
+    "question": "what is the minimum balance requirement of nust special deposit account?",
+    "answer": "nust special deposit account (asda)"
+  },
+  {
+    "id": 53,
+    "category": "NSDA",
+    "question": "what are the free services available with asda?",
+    "answer": "free e-statement & i-net banking"
+  },
+  {
+    "id": 54,
+    "category": "NSDA",
+    "question": "what is the target market?",
+    "answer": "hnw individuals (either singly or jointly)"
+  },
+  {
+    "id": 55,
+    "category": "PLS",
+    "question": "is your bank offering profit & loss account ?",
+    "answer": "yes, profit & loss sharing account is specially designed to meet the transactional and savings need of customers."
+  },
+  {
+    "id": 56,
+    "category": "PLS",
+    "question": "what are the main features of nust profit & loss sharing (pls) account?",
+    "answer": "profit payment"
+  },
+  {
+    "id": 57,
+    "category": "PLS",
+    "question": "what are free features available with nust savings profit & loss sharing (pls) account.",
+    "answer": "free e-statement & i-net banking"
+  },
+  {
+    "id": 58,
+    "category": "PLS",
+    "question": "what is the target market?",
+    "answer": "individuals (either singly or jointly)"
+  },
+  {
+    "id": 59,
+    "category": "CDA",
+    "question": "is your bank offering any current deposit account ?",
+    "answer": "current deposit account is specially designed for customers with regular banking transactional needs and do not need profit."
+  },
+  {
+    "id": 60,
+    "category": "CDA",
+    "question": "what are the main features of current deposit account?",
+    "answer": "offered in lcy (pkr) & fcy (usd, gbp, eur, jpy & aed)"
+  },
+  {
+    "id": 61,
+    "category": "CDA",
+    "question": "what are the free services offered with current deposit account?",
+    "answer": "free sms alerts facility on digital transactions"
+  },
+  {
+    "id": 62,
+    "category": "CDA",
+    "question": "what is the target market for current deposit account?",
+    "answer": "individuals (either singly or jointly) proprietorship concerns, business owners partnership firms public and private limited companies government organizations corporations, clubs, societies, ngos etc."
+  },
+  {
+    "id": 63,
+    "category": "NMA",
+    "question": "is there any account which provides lucrative profits on my long term savings?",
+    "answer": "main"
+  },
+  {
+    "id": 64,
+    "category": "NMA",
+    "question": "what are the main features of nust maximiser savings account?",
+    "answer": "- attractive profit payment on monthly, quarterly, semi-annual & annual basis:"
+  },
+  {
+    "id": 65,
+    "category": "NMA",
+    "question": "what are the free services available with nust maximiser savings account?",
+    "answer": "profit rate:"
+  },
+  {
+    "id": 66,
+    "category": "NMA",
+    "question": "what are main features of nust maximiser term deposit",
+    "answer": "profit rate:"
+  },
+  {
+    "id": 67,
+    "category": "NMA",
+    "question": "is there any premature encashment penalty in nust maximiser term deposit?",
+    "answer": "the encashment of nust maximiser term deposit before maturity will be subject to premature encashment penalty as below:"
+  },
+  {
+    "id": 68,
+    "category": "NADA",
+    "question": "is nust bank offering a simple digital banking account ?",
+    "answer": "yes, nust asaan digital account is being offered"
+  },
+  {
+    "id": 69,
+    "category": "NADA",
+    "question": "what is the target market of nust asaan digital account ?",
+    "answer": "nust asaan digital account is specially designed for unbanked / under-banked customer segments. this account is most suited for but not limited to skilled/unskilled workforce"
+  },
+  {
+    "id": 70,
+    "category": "NADA",
+    "question": "what is the account type of nust asaan digital account ? is it current or saving?",
+    "answer": "nust asaan digital account is a current account in pkr currency"
+  },
+  {
+    "id": 71,
+    "category": "NADA",
+    "question": "what are the free benefits of nust asaan digital account ?",
+    "answer": "free issuance of first cheque book (25 leaves)*"
+  },
+  {
+    "id": 72,
+    "category": "NADA",
+    "question": "who is eligible for this account?",
+    "answer": "skilled/unskilled workforce"
+  },
+  {
+    "id": 73,
+    "category": "NADA",
+    "question": "is there a monthly transaction limit (debit and credit limit) in nust asaan digital account ?",
+    "answer": "maximum credit balance limit pkr 1,000,000/-"
+  },
+  {
+    "id": 74,
+    "category": "NADRA",
+    "question": "what is the account type of nust asaan digital remittance account ? is it current or saving?",
+    "answer": "nust asaan digital remittance account is a current account in pkr currency"
+  },
+  {
+    "id": 75,
+    "category": "NADRA",
+    "question": "what are the free benefits of nust asaan digital remittance account ?",
+    "answer": "free issuance of first cheque book (25 leaves)*"
+  },
+  {
+    "id": 76,
+    "category": "NADRA",
+    "question": "what is the target market?",
+    "answer": "individuals- beneficiaries (families) of pakistanis working abroad"
+  },
+  {
+    "id": 77,
+    "category": "NADRA",
+    "question": "are there any transaction limits in nust asaan digital remittance account ?",
+    "answer": "the following transaction limits apply:"
+  },
+  {
+    "id": 78,
+    "category": "ESFCA",
+    "question": "does nust bank offer a digital banking account for freelancers ?",
+    "answer": "nust freelancer digital account is exclusively designed for freelancers, so that they can receive their payments directly in a bank account and enjoy other lifestyle banking services as well."
+  },
+  {
+    "id": 79,
+    "category": "ESFCA",
+    "question": "what is the account type of nust freelancer digital account ? is it current or saving?",
+    "answer": "nust freelancer digital account offered current account in pkr & fcy (usd, gbp, eur, aed)"
+  },
+  {
+    "id": 80,
+    "category": "ESFCA",
+    "question": "what are the free benefits of nust freelancer digital account?",
+    "answer": "free issuance of first cheque book (25 leaves)*"
+  },
+  {
+    "id": 81,
+    "category": "ESFCA",
+    "question": "what is the target market?",
+    "answer": "individuals running a freelance service business"
+  },
+  {
+    "id": 82,
+    "category": "ESFCA",
+    "question": "are there any credit and debit limits in nust freelancer digital account?",
+    "answer": "the following transaction limits apply:"
+  },
+  {
+    "id": 83,
+    "category": "NFDA",
+    "question": "does nust bank offer a digital banking account for freelancers ?",
+    "answer": "nust freelancer digital account is exclusively designed for freelancers, so that they can receive their payments directly in a bank account and enjoy other lifestyle banking services as well."
+  },
+  {
+    "id": 84,
+    "category": "NFDA",
+    "question": "what is the account type of nust freelancer digital account ? is it current or saving?",
+    "answer": "nust freelancer digital account offered current account in pkr & fcy (usd, gbp, eur, aed)"
+  },
+  {
+    "id": 85,
+    "category": "NFDA",
+    "question": "what are the free benefits of nust freelancer digital account?",
+    "answer": "free issuance of first cheque book (10 leaves)*"
+  },
+  {
+    "id": 86,
+    "category": "NFDA",
+    "question": "what is the target market?",
+    "answer": "individuals running a freelance service business"
+  },
+  {
+    "id": 87,
+    "category": "NFDA",
+    "question": "are there any credit and debit limits in nust freelancer digital account?",
+    "answer": "the following transaction limits apply:"
+  },
+  {
+    "id": 88,
+    "category": "NSA",
+    "question": "is nust bank offering any account specifically for women?",
+    "answer": "- yes! nust bank offers nust sahar account."
+  },
+  {
+    "id": 89,
+    "category": "NSA",
+    "question": "what is the account type of nust sahar account?",
+    "answer": "nust sahar deposit suite consists of following variants:"
+  },
+  {
+    "id": 90,
+    "category": "NSA",
+    "question": "what are the free facilities nust is offering on nust sahar current account ?",
+    "answer": "· first cheque book"
+  },
+  {
+    "id": 91,
+    "category": "NSA",
+    "question": "can we open this account online?",
+    "answer": "· digital account opening facility available with account opening within 48 hours"
+  },
+  {
+    "id": 92,
+    "category": "NSA",
+    "question": "does the bank offer option of term deposits with this account.",
+    "answer": "· yes, option to book exclusive nust sahar term deposits from nust sahar current account at attractive rates is available."
+  },
+  {
+    "id": 93,
+    "category": "NSA",
+    "question": "is there a minimum balance requirement for nust sahar current account",
+    "answer": "· no minimum average balance requirement for account maintenance"
+  },
+  {
+    "id": 94,
+    "category": "NSA",
+    "question": "what is the profit payment system for nust sahar savings account ?",
+    "answer": "· monthly profit payment"
+  },
+  {
+    "id": 95,
+    "category": "NSA",
+    "question": "what are the free services offered on nust sahar savings account?",
+    "answer": "· first debit card issuance*"
+  },
+  {
+    "id": 96,
+    "category": "NSA",
+    "question": "what are the main features of nust sahar term deposit ?",
+    "answer": "· flexibility to choose from multiple tenure: 1, 3 or 5 years"
+  },
+  {
+    "id": 97,
+    "category": "NSA",
+    "question": "what is the premature encashment penalty on nust sahar term deposit ?",
+    "answer": "- the encashment of nust sahar term deposit before maturity will be subject to premature encashment penalty as below:"
+  },
+  {
+    "id": 98,
+    "category": "NSA",
+    "question": "what is the initial deposit requirement of nust sahar asaan current account?",
+    "answer": "- rs. 100 only"
+  },
+  {
+    "id": 99,
+    "category": "NSA",
+    "question": "what are the main features of nust sahar asaan current account ?",
+    "answer": "- simplified account opening with single pager account opening form & cnic"
+  },
+  {
+    "id": 100,
+    "category": "NSA",
+    "question": "is there any transaction limitation for nust sahar asaan current account ?",
+    "answer": "- monthly withdrawal limits up to rs. 1,000,000"
+  },
+  {
+    "id": 101,
+    "category": "NSA",
+    "question": "what are the free services offered on nust sahar asaan current account ?",
+    "answer": "- free inter branch online cash deposit/withdrawal (online)"
+  },
+  {
+    "id": 102,
+    "category": "PF",
+    "question": "who can apply for nust personal finance?",
+    "answer": "1· armed forces officers - serving employees - retired employees 2. jcos/equivalent & lower cadres - serving employees - retired employees 3. allied armed forces (spd & its allied concerns) and civilians (in ghq/nhq & ahq) - serving employees (permanent & contractual employees) 4. fauji foundation group - permanent employees - contractual employees"
+  },
+  {
+    "id": 103,
+    "category": "PF",
+    "question": "can overseas pakistanis obtain personal finance facility from nust?",
+    "answer": "no, the availability of applicants & their employers is mandatory within pakistan for applying clean personal finance."
+  },
+  {
+    "id": 104,
+    "category": "PF",
+    "question": "what is the minimum and maximum financing amount?",
+    "answer": "the minimum financing amount is rs. 50,000/ (rs. 35,000 for retired jcos & lower cadre - subject to pension with nust)."
+  },
+  {
+    "id": 105,
+    "category": "PF",
+    "question": "what are the minimum & maximum financing tenures?",
+    "answer": "minimum 01 year"
+  },
+  {
+    "id": 106,
+    "category": "PF",
+    "question": "what is the age criteria for applying nust personal finance?",
+    "answer": "minimum: salaried: 21 years (18 years for armed forces) seb/sep: 23 years prime customers: 25 years"
+  },
+  {
+    "id": 107,
+    "category": "PF",
+    "question": "what is the minimum monthly income criterion?",
+    "answer": "salaried (approved company): - category a company - pkr 40,000 (permanent) & pkr 60,000 (company / 3rd party contractual) - category b & c company - pkr 50,000 (permanent) & pkr 60,000 (company / 3rd party contractual) salaried (non-approved company): - pkr 70,000 (permanent) & pkr 80,000 (company contractual) salaried (gop): - serving - pkr 35,000 (permanent, bps-5 & above) & pkr 45,000 (contractual) - retired - pkr 40,000 subject to pension with nust"
+  },
+  {
+    "id": 108,
+    "category": "PF",
+    "question": "what is the application processing time?",
+    "answer": "the processing time of personal finance is 10 working days form login till approval (subject to complete application with required documents)."
+  },
+  {
+    "id": 109,
+    "category": "PF",
+    "question": "what is the application processing charges?",
+    "answer": "it will be as per prevailing schedule of charges (soc) or as per corporate arrangement."
+  },
+  {
+    "id": 110,
+    "category": "PF",
+    "question": "what is the repayment mode?",
+    "answer": "payment of equal monthly instalment (emi) comprising of principal, mark-up and insurance payment will be made through direct debit authority (dda) of borrower’s account maintained with nust."
+  },
+  {
+    "id": 111,
+    "category": "PF",
+    "question": "can i make balloon payments or premature termination of facility?",
+    "answer": "yes, balloon payment or premature termination option is available for all customers. charges will be applied as per prevailing bank’s schedule of charges / as per corporate arrangement."
+  },
+  {
+    "id": 112,
+    "category": "PF",
+    "question": "what happens if i fail to fulfil your payment obligations?",
+    "answer": "in case of overdue / default, recovery department of nust will contact you, your loan related details will be reported to credit bureau."
+  },
+  {
+    "id": 113,
+    "category": "PF",
+    "question": "how will i get update of my personal loan application?",
+    "answer": "you can visit/ call or send email at our customer services centre(s) as well."
+  },
+  {
+    "id": 114,
+    "category": "NMF",
+    "question": "how will i get update of my house loan application?",
+    "answer": "our sales/ front end staff is quite supportive and always there to serve you. you can visit/call or send email at our customer services center(s) as well."
+  },
+  {
+    "id": 115,
+    "category": "NSF",
+    "question": "is nust bank offering any financing specifically for women owned small and medium enterprises?",
+    "answer": "the product \"nust sahar finance\" is based on refinance and credit guarantee scheme for women entrepreneurs objective of this product is to provide financing facilities to women owned enterprises to meet credit needs of their businesses."
+  },
+  {
+    "id": 116,
+    "category": "NSF",
+    "question": "what are the purposes for which nust sahar finance can be availed?",
+    "answer": "i. expansion of existing business ii. set up of new business iii.purchase of stocks/ working capital requirement etc"
+  },
+  {
+    "id": 117,
+    "category": "NSF",
+    "question": "what is the applicant legal structure of business in order to avail nust sahar finance?",
+    "answer": "sole proprietor, partnership firm, private limited company, single member company (smc), business individuals (women owned) *in partnership firm/ private limited company, having 02 partners or directors, minimum 51% shareholder/ ceo should be a a femle who should also be the applicant. if there are more than 02 partners or directors, major share holder should be women , who should also be ceo and applicant"
+  },
+  {
+    "id": 118,
+    "category": "NSF",
+    "question": "what is the nature of finance in nust sahar finance?",
+    "answer": "i. long term finance ii. short term finance/working capital"
+  },
+  {
+    "id": 119,
+    "category": "NSF",
+    "question": "what is the maximum tenure of nust sahar finance?",
+    "answer": "short term finance/working capital maximum 3 years with no grace period"
+  },
+  {
+    "id": 120,
+    "category": "NSF",
+    "question": "is there any age criteria to avail nust sahar finance?",
+    "answer": "new business between 20-50 years at the time of application"
+  },
+  {
+    "id": 121,
+    "category": "NSF",
+    "question": "what are the loan limits of nust sahar finance?",
+    "answer": "new business maximum loan rs: 3.00 million"
+  },
+  {
+    "id": 122,
+    "category": "NSF",
+    "question": "what is the current mark-up rate of nust sahar finance?",
+    "answer": "mark-up rate of @5% p.a. *markup at 12m kibor + 4% per annum to be charged till refinance claim reimbursed by sbp."
+  },
+  {
+    "id": 123,
+    "category": "NSF",
+    "question": "can applicant avail clean loan in nust sahar finance?",
+    "answer": "max rs: 0.70 million can be availed against personal and third party guarantee"
+  },
+  {
+    "id": 124,
+    "category": "NSF",
+    "question": "does the bank require any equity for this scheme?",
+    "answer": "new business 20% equity."
+  },
+  {
+    "id": 125,
+    "category": "NSF",
+    "question": "is there any minimum business age requirement?",
+    "answer": "existing business should be women owned enterprises with minimum 01 year of business registration new business: nil"
+  },
+  {
+    "id": 126,
+    "category": "NSF",
+    "question": "what are the processing charges for nust sahar finance application?",
+    "answer": "up to rs. 0.70"
+  },
+  {
+    "id": 127,
+    "category": "NSF",
+    "question": "are there any late payment charges?",
+    "answer": "rs. 1,000/- per installment *in case of delay of installment, commercial rate will be charged on the outstanding principal amount."
+  },
+  {
+    "id": 128,
+    "category": "NSF",
+    "question": "what are the service/documentation/legal charges in nust sahar finance?",
+    "answer": "at actual"
+  },
+  {
+    "id": 129,
+    "category": "NSF",
+    "question": "what are the insurance charges?",
+    "answer": "at actual"
+  },
+  {
+    "id": 130,
+    "category": "NIF",
+    "question": "is nust bank offering any financing specifically for the ownership & capacity enhancement of business premises?",
+    "answer": "nust bank has structured a new financing product “nust imarat finance” under the ambit of sme segment. the product program has been developed in order to stabilize sme business through making their ownership of business premises (under mortgage finance of urban commercial / industrial buildings) for capacity enhancement of smes.the product has been structured for smes owned by general public as well as retired armed forces officers and families of serving officers."
+  },
+  {
+    "id": 131,
+    "category": "NIF",
+    "question": "what are the loan limits of nust imarat finance?",
+    "answer": "aif 1: mininum rs. 5.00 m & maximum rs. 100m aif 2: mininum rs. 5.00 m & maximum rs. 50m aif 3: maximum rs. 30m or upto 30% of fsv of offered property, whichever is lower aif 4: maximum rs. 5m or upto 25% of fsv of offered property, whichever is lower"
+  },
+  {
+    "id": 132,
+    "category": "NIF",
+    "question": "what is the maximum tenure of nust imarat finance?",
+    "answer": "aif 1: maximum 10 years (grace period upto 6 months)"
+  },
+  {
+    "id": 133,
+    "category": "NIF",
+    "question": "does the bank require any equity for this scheme?",
+    "answer": "aif 1 & aif 2: minimum 30% (existing business) & minimum 40% (new business) aif 3 & aif 4 : nil for existing business & minimum 25% (new business)"
+  },
+  {
+    "id": 134,
+    "category": "NIF",
+    "question": "is there any minimum age to avail financing in nust imarat finance?",
+    "answer": "new business minimum 30 years at the time of application, however age not to exceed 60 years at maturity of loan."
+  },
+  {
+    "id": 135,
+    "category": "NIF",
+    "question": "what is the current mark-up rate of nust imarat finance?",
+    "answer": "general regular sme’s end-user rate: 12mk+4% p.a. (to be reviewed on annual basis)"
+  },
+  {
+    "id": 136,
+    "category": "NIF",
+    "question": "is there any business age requirement?",
+    "answer": "existing business minimum 03 year operating history of business"
+  },
+  {
+    "id": 137,
+    "category": "NIF",
+    "question": "what should be the legal structure of business for availing nust imarat finance?",
+    "answer": "sole proprietor, partnership firm(registered), private limited company, limited company"
+  },
+  {
+    "id": 138,
+    "category": "NIF",
+    "question": "what is the security requirement for availing nust imarat finance?",
+    "answer": "i. effective mortgage (equitable / or token registered) to be created on same urban commercial / industrial property which has been financed ii. 03 post dated cheques of the full loan amount plus markup iii. personal guarantees from borrowers, all partners and directors of the companies alongwith “personal net worth statement”. iv. fard based property to be registered equivalent to the full loan amount"
+  },
+  {
+    "id": 139,
+    "category": "NIF",
+    "question": "what is the repayment frequency in nust imarat finance?",
+    "answer": "monthly/quarterly"
+  },
+  {
+    "id": 140,
+    "category": "NIF",
+    "question": "is there any condition related to bank account maintenance for availing nust imarat finance?",
+    "answer": "minimum 01 year bank account statement with nust or minimum 02 years bank statement with any other bank"
+  },
+  {
+    "id": 141,
+    "category": "NIF",
+    "question": "is there any penalty charges related to premature termination/balloon payment penalties?",
+    "answer": "mode of pre-mature termination"
+  },
+  {
+    "id": 142,
+    "category": "NIF",
+    "question": "what are the processing charges for nust imarat finance application?",
+    "answer": "rs 30,000/- or 0.2% of loan amount whichever is higher (non-refundable)"
+  },
+  {
+    "id": 143,
+    "category": "NIF",
+    "question": "are there any late payment charges?",
+    "answer": "rs. 3,000/- per installment"
+  },
+  {
+    "id": 144,
+    "category": "NIF",
+    "question": "what are the service/documentation/legal charges in nust imarat finance?",
+    "answer": "at actual"
+  },
+  {
+    "id": 145,
+    "category": "NIF",
+    "question": "what are the valuation/boq charges?",
+    "answer": "at actual"
+  },
+  {
+    "id": 146,
+    "category": "NUF",
+    "question": "is nust bank offering any financing product related to renewable/alternate energy solutions?",
+    "answer": "nust bank has structured a new financing product under the name of “nust ujala finance (nust ujala finance)” in light of sbp’s refinance scheme, under the ambit of sme. the product program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy."
+  },
+  {
+    "id": 147,
+    "category": "NUF",
+    "question": "who can apply for nust ujala finance?",
+    "answer": "1. se/me financing 2. vendor’s / suppliers’ financing 3. nust employees’ financing 4. domestic applicant financing (exclusively for employees of corporate / government sector)"
+  },
+  {
+    "id": 148,
+    "category": "NUF",
+    "question": "is there any minimum age to avail financing in nust ujala finance?",
+    "answer": "se/me financing: between 25-55 years at the time of application. (any one partner/ director should meet age criteria) vendors/suppliers: between 25-55 years at the time of application. (any one partner/ director should meet age criteria) nust employees’ financing: no age limit domestic applicant financing: between 25-55 years at the time of application. (any one borrower or co-borrower should meet criteria)"
+  },
+  {
+    "id": 149,
+    "category": "NUF",
+    "question": "what is the current mark-up rate of nust ujala finance?",
+    "answer": "6 % per annum for all *markup at 12m kibor + 4% per annum to be charged till refinance claim reimbursed by sbp."
+  },
+  {
+    "id": 150,
+    "category": "NUF",
+    "question": "what is the maximum tenure for nust ujala finance?",
+    "answer": "i. se/me borrowers: 05 years, inclusive of grace period of 03 months. ii. domestic : 05 years inclusive of grace period of 03 months. iii. nust employees : 10 years or as per remaining service period (whichever is lesser), inclusive of grace period of 03 months. iv. vendors/suppliers: 05 years inclusive of grace period of 06 months"
+  },
+  {
+    "id": 151,
+    "category": "NUF",
+    "question": "what is the repayment frequency in nust ujala finance?",
+    "answer": "se/me borrowers : monthly / quarterly domestic borrower : monthly nust employees : monthly vendors/suppliers : quarterly/half yearly (as per borrower’s cash flow)"
+  },
+  {
+    "id": 152,
+    "category": "NUF",
+    "question": "what are the processing charges for nust ujala finance application?",
+    "answer": "se/me/vendor/supplier"
+  },
+  {
+    "id": 153,
+    "category": "NUF",
+    "question": "is there any late payment charges?",
+    "answer": "in case of delay of installment, commercial rate will be charges on overdue days."
+  },
+  {
+    "id": 154,
+    "category": "NUF",
+    "question": "what are the service/documentation/legal charges in nust ujala finance?",
+    "answer": "at actual"
+  },
+  {
+    "id": 155,
+    "category": "NUF",
+    "question": "what are the insurance charges?",
+    "answer": "at actual"
+  },
+  {
+    "id": 156,
+    "category": "NFMF",
+    "question": "is nust bank offering any seasonal financing?",
+    "answer": "seasonal finance product \"nust flour mill finance” has been structured through for quick financing under program-based lending. the product has been designed for flour mills in order to meet their working capital needs. nust flour mill finance caters to meet seasonal financing needs of wheat procurement and other overhead expenses to flour mills. the scope of product is to target flour mills which fall under category of sme."
+  },
+  {
+    "id": 157,
+    "category": "NFMF",
+    "question": "what are the loan limits of nust flour mill finance?",
+    "answer": "per party (single entity) can avail up to rs. 75m for me and rs. 25m for se"
+  },
+  {
+    "id": 158,
+    "category": "NFMF",
+    "question": "is there any minimum age to avail financing in nust flour mill finance?",
+    "answer": "age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. this age can be relaxed in case of effective succession planning for business operations."
+  },
+  {
+    "id": 159,
+    "category": "NFMF",
+    "question": "what is the maximum tenure of nust flour mill finance?",
+    "answer": "maximum 1 year as per clean-up corridors"
+  },
+  {
+    "id": 160,
+    "category": "NFMF",
+    "question": "what is the current mark-up rate of nust flour mill finance?",
+    "answer": "cash finance 3 months average kibor + 3% p.a."
+  },
+  {
+    "id": 161,
+    "category": "NFMF",
+    "question": "what are the processing charges for nust flour mill finance application?",
+    "answer": "processing fee will be charged @ 0.15% of total limit(s) processed/approved or rs. 25,000/- whichever is higher"
+  },
+  {
+    "id": 162,
+    "category": "NFMF",
+    "question": "what are the service/documentation/legal charges in nust flour mill finance?",
+    "answer": "at actual"
+  },
+  {
+    "id": 163,
+    "category": "NFMF",
+    "question": "what are the insurance charges?",
+    "answer": "at actual"
+  },
+  {
+    "id": 164,
+    "category": "NFBF",
+    "question": "is nust bank offering any financing against liquid security?",
+    "answer": "nust fauri business finance” has been introduced to provide a swift package to meet financial business needs of new to bank obligor. afbf is offered to meet short, medium and long-term requirements of business. the finance will be provided to smes & commercial for all the eligible sectors as per nust credit policy manual."
+  },
+  {
+    "id": 165,
+    "category": "NFBF",
+    "question": "what is the eligibility criteria for business entity in ask fauri business finance?",
+    "answer": "all except individuals"
+  },
+  {
+    "id": 166,
+    "category": "NFBF",
+    "question": "is there any business age requirement?",
+    "answer": "no"
+  },
+  {
+    "id": 167,
+    "category": "NFBF",
+    "question": "what is the nature of financing offered under ask fauri business finance?",
+    "answer": "afbf-1: running finance afbf-2: term loan afbf-3: letter of guarantee afbf-4: letter of credit – sight / usance"
+  },
+  {
+    "id": 168,
+    "category": "NFBF",
+    "question": "what is the current mark-up rate of ask fauri business finance?",
+    "answer": "afbf-1: 3mk /cod +1.50% afbf-2: 12 mk /cod +2.0% afbf-3: as per soc afbf-4: as per soc"
+  },
+  {
+    "id": 169,
+    "category": "NFBF",
+    "question": "what is the principal repayment frequency in ask fauri business finance?",
+    "answer": "afbf-1: at maturity afbf-2: monthly / quarterly afbf-3: upon expiry / redemption afbf-4: upon retirement"
+  },
+  {
+    "id": 170,
+    "category": "NFBF",
+    "question": "what is the markup repayment frequency in ask fauri business finance?",
+    "answer": "afbf-1: monthly / quarterly afbf-2: monthly / quarterly afbf-3: upfront afbf-4: upfront"
+  },
+  {
+    "id": 171,
+    "category": "NFBF",
+    "question": "what is the maximum tenure of ask fauri business finance?",
+    "answer": "afbf-1: up to 1 year afbf-2: up to 3 year afbf-3: up to 30 months afbf-4: at sight / usance period 120 days"
+  },
+  {
+    "id": 172,
+    "category": "NFBF",
+    "question": "what are the loan limits of ask fauri business finance?",
+    "answer": "max rs. 200 mn (for all products)"
+  },
+  {
+    "id": 173,
+    "category": "NFBF",
+    "question": "is there any grace period allowed in any financing?",
+    "answer": "grace period of 3 months allowed for afbf 2 (term loan only)"
+  },
+  {
+    "id": 174,
+    "category": "NFBF",
+    "question": "what is the collateral requirment for ask fauri business finance?",
+    "answer": "• nust : lien on nust deposit ca/sa/ tdr, including 3rd party (lcy/fcy) • national saving certificates (nsc): (lien over nsc including joint name/owner)"
+  },
+  {
+    "id": 175,
+    "category": "NFBF",
+    "question": "what are the processing charges for ask fauri finance application?",
+    "answer": "flat @ rs. 3,000/- (at the time of initiating and on each renewal)"
+  },
+  {
+    "id": 176,
+    "category": "NFBF",
+    "question": "what are the service/documentation/legal charges in ask fauri business finance?",
+    "answer": "at actual"
+  },
+  {
+    "id": 177,
+    "category": "NFBF",
+    "question": "is there any premature termination / balloon payment charges?",
+    "answer": "nil"
+  },
+  {
+    "id": 178,
+    "category": "PMYB &ALS",
+    "question": "is nust bank participating in pmyb & als?",
+    "answer": "nust bank is actively participating in pmyb&als. it has been specially designed to provide self-employment opportunity to the unemployed youth of the country who have skills, knowledge, experience or willingness to start their own businesses on small to medium scale or expand existing business on vast scale."
+  },
+  {
+    "id": 179,
+    "category": "PMYB &ALS",
+    "question": "what are the loan limits of pmyb & als?",
+    "answer": "tier 2 above rs. 0.5m and up to rs 1.5m"
+  },
+  {
+    "id": 180,
+    "category": "PMYB &ALS",
+    "question": "is there any minimum age to avail financing in pmyb & als and any mandatory qualification/experience required?",
+    "answer": "all pakistanis aged between 21 and 45 are eligible to apply, however for it/e-commerce related businesses, the lower age limit will be 18 years (at least matriculation or equivalent education will be required)"
+  },
+  {
+    "id": 181,
+    "category": "PMYB &ALS",
+    "question": "what is the maximum tenure in pmyb & als?",
+    "answer": "long term loan: maximum 8 years (maximum 1 year grace period)"
+  },
+  {
+    "id": 182,
+    "category": "PMYB &ALS",
+    "question": "what is the current mark-up rate of pmyb & als?",
+    "answer": "tier 2 5% per annum"
+  },
+  {
+    "id": 183,
+    "category": "PMYB &ALS",
+    "question": "does the bank require any equity for this scheme?",
+    "answer": "tier 2 10% (new business)"
+  },
+  {
+    "id": 184,
+    "category": "PMYB &ALS",
+    "question": "what is the repayment frequency in pmyb & als?",
+    "answer": "repayment of pmyb&als loans will be made in the form of “monthly or quarterly instalments (or as per sbp’s directives)"
+  },
+  {
+    "id": 185,
+    "category": "PMYB &ALS",
+    "question": "what is the security requirement for availing pmyb & als?",
+    "answer": "tier 2 i. clean; personal guarantee of the borrower ii. 02 post dated cheques for installment amount iii. 01 post dated cheque for full loan amount plus mark up as per amortization schedule"
+  },
+  {
+    "id": 186,
+    "category": "PMYB &ALS",
+    "question": "is there any quota for womens?",
+    "answer": "25% of the loans will go to women borrowers"
+  },
+  {
+    "id": 187,
+    "category": "PMYB &ALS",
+    "question": "what are the processing charges for pmyb & als?",
+    "answer": "rs. 100/-"
+  },
+  {
+    "id": 188,
+    "category": "PMYB &ALS",
+    "question": "what are the service/documentation/legal charges in pmyb & als?",
+    "answer": "at actual"
+  },
+  {
+    "id": 189,
+    "category": "PMYB &ALS",
+    "question": "is there any late payment charges?",
+    "answer": "pkr 1,000/- plus fed per instance per installment, grace period included. (late payment to be triggered 15 days after installment becomes due i.e. on day 16)"
+  },
+  {
+    "id": 190,
+    "category": "NRF",
+    "question": "is nust bank offering any seasonal financing for rice mills?",
+    "answer": "nust rice finance caters to meet seasonal financing needs of paddy procurement and other overhead expenses to rice mills, based on past performance and milling capacity to fulfil their seasonal financial needs. the scope of the product is to target ‘rice mills’ which fall under the category of sme."
+  },
+  {
+    "id": 191,
+    "category": "NRF",
+    "question": "what are the loan limits of nust rice finance?",
+    "answer": "me: upto rs.200m (maximum) se: upto rs.25m (maximum)"
+  },
+  {
+    "id": 192,
+    "category": "NRF",
+    "question": "is there any minimum age to avail financing in nust rice finance?",
+    "answer": "minimum 20 years (in case of sole proprietorship) maximum 65 years at the time of application. * this criteria is not applicable if business concern is a partnership or limited company *this age can be relaxed in case of effective succession planning is available."
+  },
+  {
+    "id": 193,
+    "category": "NRF",
+    "question": "what is the maximum tenure of nust rice finance?",
+    "answer": "cash finance max 270 days or clean-up corridors whichever is earlier"
+  },
+  {
+    "id": 194,
+    "category": "NRF",
+    "question": "what is the current mark-up rate of nust rice finance?",
+    "answer": "cash finance 3 months kibor + up to 3.00% p.a"
+  },
+  {
+    "id": 195,
+    "category": "NRF",
+    "question": "what are the processing charges for nust rice finance application?",
+    "answer": "processing fee will be charged @ 0.15% of total limit(s) processed/approved or rs. 25,000/- whichever is higher"
+  },
+  {
+    "id": 196,
+    "category": "NRF",
+    "question": "what are the service/documentation/legal charges in nust rice finance?",
+    "answer": "at actual"
+  },
+  {
+    "id": 197,
+    "category": "NRF",
+    "question": "what are the insurance charges?",
+    "answer": "at actual"
+  },
+  {
+    "id": 198,
+    "category": "NHF",
+    "question": "is there any business loan product offered by nust for families of armed forces and retired officers of the armed forces?",
+    "answer": "nust hunarmand finance is a sub product of pmyb&als which is structured with an objective to provide business opportunity to specific target market. • retired commissioned, junior commissioned, non-commissioned officers of the armed forces and their family members i.e. spouse and children • spouse and children of serving commissioned, junior commissioned and non-commissioned officers of armed forces."
+  },
+  {
+    "id": 199,
+    "category": "NHF",
+    "question": "what are the loan limits of nust hunarmand finance?",
+    "answer": "tier 2 above rs. 0.5m and up to rs 1.5m"
+  },
+  {
+    "id": 200,
+    "category": "NHF",
+    "question": "is there any minimum age to avail financing in nust hunarmand finance?",
+    "answer": "all pakistanis aged between 21 and 45 are eligible to apply, however for it/e-commerce related businesses, the lower age limit will be 18 years"
+  },
+  {
+    "id": 201,
+    "category": "NHF",
+    "question": "what is the maximum tenure in nust hunarmand finance?",
+    "answer": "long term loan: maximum 8 years (maximum 1 year grace period)"
+  },
+  {
+    "id": 202,
+    "category": "NHF",
+    "question": "what is the current mark-up rate of nust hunarmand finance?",
+    "answer": "tier 2 4.5% per annum"
+  },
+  {
+    "id": 203,
+    "category": "NHF",
+    "question": "does the bank require any equity for this scheme?",
+    "answer": "tier 2 10% (new business)"
+  },
+  {
+    "id": 204,
+    "category": "NHF",
+    "question": "what is the repayment frequency in nust hunarmand finance?",
+    "answer": "repayment of ahf loans will be made in the form of “monthly or quarterly instalments (or as per sbp’s directives)"
+  },
+  {
+    "id": 205,
+    "category": "NHF",
+    "question": "what is the security requirement for availing nust hunarmand finance?",
+    "answer": "i. personal guarantee of borrower for loans up to 1.5m, and direct debit authority of borrower/pensioner/guarantor to be obtained ii. for loans above 1.5m, it shall be secured against movable as well as immovable assets of borrowers as defined under pmyb&als iii. guarantee of serving officer of armed forces in case of his family (spouse or children) avail loan under this program."
+  },
+  {
+    "id": 206,
+    "category": "NHF",
+    "question": "are there any late payment charges?",
+    "answer": "late payment charges pkr 1,000/- plus fed will be charges after 30th day of installment overdue."
+  },
+  {
+    "id": 207,
+    "category": "NHF",
+    "question": "what are the charges applicable for nust hunarmand finance?",
+    "answer": "applicable as per pmyb & als"
+  },
+  {
+    "id": 208,
+    "category": "Nust Life",
+    "question": "can i purchase bancassurnce policy from my account maintained with nust bank?",
+    "answer": "main"
+  },
+  {
+    "id": 209,
+    "category": "Nust Life",
+    "question": "what are the main features of nust life bancassurnace policy?",
+    "answer": "- short term family protection and in long term savings"
+  },
+  {
+    "id": 210,
+    "category": "Nust Life",
+    "question": "how many nust life insurance plans available?",
+    "answer": "plan type"
+  },
+  {
+    "id": 211,
+    "category": "Nust Life",
+    "question": "what are the main features of these nust life insurance plans",
+    "answer": "- 14 days free look period start from the day customer received policy documents."
+  },
+  {
+    "id": 212,
+    "category": "EFU Life",
+    "question": "can i purchase bancassurnce policy from my account maintained with nust bank?",
+    "answer": "main"
+  },
+  {
+    "id": 213,
+    "category": "EFU Life",
+    "question": "what are the main features of efu bancassurnace policy?",
+    "answer": "- family protection and long term savings"
+  },
+  {
+    "id": 214,
+    "category": "EFU Life",
+    "question": "how many efu insurance plans available?",
+    "answer": "plan type"
+  },
+  {
+    "id": 215,
+    "category": "EFU Life",
+    "question": "what are the main features of these efu insurance plans?",
+    "answer": "- 14 days free look period start from the day customer received policy documents."
+  },
+  {
+    "id": 216,
+    "category": "Jubilee Life ",
+    "question": "can i purchase bancassurnce policy from my account maintained with nust bank?",
+    "answer": "main"
+  },
+  {
+    "id": 217,
+    "category": "Jubilee Life ",
+    "question": "what are the main features of jli bancassurnace policy?",
+    "answer": "- short term family protection and in long term savings"
+  },
+  {
+    "id": 218,
+    "category": "Jubilee Life ",
+    "question": "how many jubilee life insurance plans available?",
+    "answer": "plan type"
+  },
+  {
+    "id": 219,
+    "category": "Jubilee Life ",
+    "question": "what are the main features of these jubilee life insurance plans",
+    "answer": "- 14 days free look period start from the day customer received policy documents."
+  },
+  {
+    "id": 220,
+    "category": "HOME REMITTANCE",
+    "question": "what is home remittance ?",
+    "answer": "home remittance service enables remitters to send money from abroad to pakistan instantly, conveniently, and safely through the legal banking channel."
+  },
+  {
+    "id": 221,
+    "category": "HOME REMITTANCE",
+    "question": "what types of inward home remittance products does nust bank offer ?",
+    "answer": "nust offers the following home remittance products to cater to the needs of various home remittance beneficiaries in pakistan: • cash over the counter (coc) payments for walk-in customers • nust account transfer • other bank account transfer via inter bank funds transfer (ibft) & real time gross settlement (rtgs)"
+  },
+  {
+    "id": 222,
+    "category": "HOME REMITTANCE",
+    "question": "is there any limit on the amount received though nust home remittance?",
+    "answer": "below are the applicable limits: • nust accounts - no limit • other banks accounts - no limit • cash over the counter (coc) transactions - up to pkr 1,000,000/- per transaction and there is no limit of western union coc transactions"
+  },
+  {
+    "id": 223,
+    "category": "HOME REMITTANCE",
+    "question": "are there any charges/fee for nust's home remittance service?",
+    "answer": "nust home remittance service is free of charge."
+  },
+  {
+    "id": 224,
+    "category": "HOME REMITTANCE",
+    "question": "are there any tax deductions on home remittances?",
+    "answer": "home remittance service is free of taxes."
+  },
+  {
+    "id": 225,
+    "category": "HOME REMITTANCE",
+    "question": "can i receive remittance in pakistan if i do not have a bank account with any bank?",
+    "answer": "you can receive your home remittance from any of nust 600+ domestic branches nationwide if you have a valid cnic and transaction unique reference no. / pin code."
+  },
+  {
+    "id": 226,
+    "category": "HOME REMITTANCE",
+    "question": "is there any list of branches i can access to get information?",
+    "answer": "the list of nust domestic branches can be viewed from the branch locator available on our corporate website www.nustbank.com ."
+  },
+  {
+    "id": 227,
+    "category": "HOME REMITTANCE",
+    "question": "who should i contact in case i need to lodge a complaint regarding home remittance?",
+    "answer": "for any query/complaint regarding home remittance, you may contact our dedicated remittance service centre at uan# 021-111-000-787. you may also email your queries/complaints at remittance@nustbank.com.pk"
+  },
+  {
+    "id": 228,
+    "category": "HOME REMITTANCE",
+    "question": "how can i obtain a proceed realization certificate (prc)/encashment certificate against remittance(s) received? who should i contact?",
+    "answer": "please find below contact details for obtaining a prc and e-prc: • e-prc option is also available at the nust website https://secureportal.nustbank.com/eprc/customer to obtain a system generated prc on your registered email address. • proceeds realization certificate (prc) is issued from nust centralized remittance department. you may contact them at the following email addresses: remittance.prc@nustbank.com.pk"
+  },
+  {
+    "id": 229,
+    "category": "HOME REMITTANCE",
+    "question": "can i track my remittance status online?",
+    "answer": "yes, you can view the status of your remittance online through nust remittance tracker by following link https://nustbank.com/services/alternate-delivery-channels/home-remittance-tracking/"
+  },
+  {
+    "id": 230,
+    "category": "HOME REMITTANCE",
+    "question": "what are nust's banking hours to avail home remittance services from nust branches?",
+    "answer": "customers can avail home remittance services from nust domestic branches during regular business hours appended below: • monday to thursday: 09:00 am to 05:00 pm • friday: 09:00 am to 05:30 pm • saturday: 09:00 am to 01:30 pm (through selected branches)"
+  },
+  {
+    "id": 231,
+    "category": "HOME REMITTANCE",
+    "question": "is it important to declare the purpose of the funds being sent to pakistan?",
+    "answer": "yes, it is mandatory to provide purpose of funds being sent to pakistan."
+  },
+  {
+    "id": 232,
+    "category": "HOME REMITTANCE",
+    "question": "does the pri comes under the laws of state bank or government?",
+    "answer": "it is a joint initiative of state bank of pakistan, ministry of overseas pakistanis and ministry of finance."
+  },
+  {
+    "id": 233,
+    "category": "HOME REMITTANCE",
+    "question": "can the freelance payment be made through pri?",
+    "answer": "yes freelance payments is allowed under specfic arrangemnts with tie-ups with allowed purposes as per sbp guidelines."
+  },
+  {
+    "id": 234,
+    "category": "HOME REMITTANCE",
+    "question": "what conversion rates will be applied on remittance?",
+    "answer": "the same conversion rates will be applied at the time of sending the remittance. affiliated bank or exchange company confirm the conversion rates to sender at the time of sending the remittance."
+  },
+  {
+    "id": 235,
+    "category": "HOME REMITTANCE",
+    "question": "does nust bank has specialized remittance account as per sbp guideline?",
+    "answer": "yes nust has remittance account name as pak wattan remittance account."
+  },
+  {
+    "id": 236,
+    "category": "HOME REMITTANCE",
+    "question": "who can open pak wattan remittance account?",
+    "answer": "a bonafide recipient of home remittance (pri) can open this account."
+  },
+  {
+    "id": 237,
+    "category": "HOME REMITTANCE",
+    "question": "can remittance be sent from anywhere to pakistan?",
+    "answer": "yes, remittance can be sent from around the globe to pakistan through our agent partners like western union, mastercard, dandelion payments (ria) etc. for more information please go through the below link:"
+  }
+]
